@@ -1,0 +1,5 @@
+build/
+dev.log
+.DS_Store
+*.mov
+_old-screenshots/
